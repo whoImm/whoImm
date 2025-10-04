@@ -1,5 +1,3 @@
-# wholmm
-
 ![Banner](https://cdn.discordapp.com/attachments/1024260385311838289/1424125578457518151/raw.png?ex=68e2cfcc&is=68e17e4c&hm=eb77ba2800e87d28bc8ff0e6eeeb0868df925b2c65dc6365e3e6d866c232383d&)
 
 ---
