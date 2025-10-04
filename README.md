@@ -1,4 +1,4 @@
-![Banner]([https://cdn.discordapp.com/attachments/1024260385311838289/1424125578457518151/raw.png?ex=68e2cfcc&is=68e17e4c&hm=eb77ba2800e87d28bc8ff0e6eeeb0868df925b2c65dc6365e3e6d866c232383d&](https://cdn.discordapp.com/attachments/1024260385311838289/1424143223919607930/image.png?ex=68e2e03b&is=68e18ebb&hm=79c2070f34b82bf678606df6e58dfa6e4d0a52ee3ab522dc4af2b1d1f81cd9c7&))
+![Banner](https://cdn.discordapp.com/attachments/1024260385311838289/1424143223919607930/image.png?ex=68e2e03b&is=68e18ebb&hm=79c2070f34b82bf678606df6e58dfa6e4d0a52ee3ab522dc4af2b1d1f81cd9c7&)
 
 ---
 
