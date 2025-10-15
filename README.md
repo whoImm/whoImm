@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1127282303572385874/1426879053780221982/image.png?ex=68ecd42c&is=68eb82ac&hm=ce1c5f1616ff100ec9ea36910bd616f7d14d6fbbb6cffb11280e4e1198d57532&)
+![Banner](https://i.hizliresim.com/3zhwn12.png)
 
 ---
 
