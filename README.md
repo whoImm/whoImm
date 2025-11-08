@@ -20,7 +20,7 @@
 ### 🚀 *Join my discord* 🚀
 
 <a href="https://discord.gg/PqZ9xwq5FV">
-  <img src="https://cdn.discordapp.com/attachments/1024260385311838289/1424129381928013865/iu.png?ex=68e2d357&is=68e181d7&hm=34534432955c28de9bac19e74e1f3870d771bd1dc5bd5c25634a3bdf5aefdd1e&" width="50" height="50">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffastpng.com%2Fimages%2Ffile%2Fdiscord-logo-icon-9d896679m9togrii.png&f=1&nofb=1&ipt=80b35e4077f3e39efda6ffc152ea8d44fcea5a85904f2b04d41b4956e2cc01f0" width="50" height="50">
   <br>
   <strong>Click to Join Discord</strong>
 </a>
